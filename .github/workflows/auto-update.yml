@@ -28,8 +28,14 @@ jobs:
           git add -A
           git commit -m "🤖 Auto update README" || exit 0
           git push
+      - name: Build
+        run: |-
+          mkdir public
+          cp -r ./data ./public/
+          cp ./index.html ./public/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./public
+          force_orphan: true
