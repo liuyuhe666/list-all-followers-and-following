@@ -28,3 +28,8 @@ jobs:
           git add -A
           git commit -m "🤖 Auto update README" || exit 0
           git push
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
