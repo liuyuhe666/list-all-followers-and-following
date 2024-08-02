@@ -93,7 +93,7 @@ Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
     console.log('Done!')
   } catch (error) {
     console.log(error.message);
-  }followers.json
+  }
 }
 
 function formatTable(arr) {
