@@ -87,10 +87,13 @@ Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
 
 `
     writeFileSync('./README.md', before + middle + end);
+    writeFileSync('./data/following.json', JSON.stringify(following, null, 2));
+    writeFileSync('./data/followers.json', JSON.stringify(followers, null, 2));
+    writeFileSync('./data/user.json', JSON.stringify(user, null, 2));
     console.log('Done!')
   } catch (error) {
     console.log(error.message);
-  }
+  }followers.json
 }
 
 function formatTable(arr) {
