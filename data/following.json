@@ -440,6 +440,26 @@
     "site_admin": false
   },
   {
+    "login": "QiuChenly",
+    "id": 24793281,
+    "node_id": "MDQ6VXNlcjI0NzkzMjgx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/24793281?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/QiuChenly",
+    "html_url": "https://github.com/QiuChenly",
+    "followers_url": "https://api.github.com/users/QiuChenly/followers",
+    "following_url": "https://api.github.com/users/QiuChenly/following{/other_user}",
+    "gists_url": "https://api.github.com/users/QiuChenly/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/QiuChenly/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/QiuChenly/subscriptions",
+    "organizations_url": "https://api.github.com/users/QiuChenly/orgs",
+    "repos_url": "https://api.github.com/users/QiuChenly/repos",
+    "events_url": "https://api.github.com/users/QiuChenly/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/QiuChenly/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
     "login": "liyupi",
     "id": 26037703,
     "node_id": "MDQ6VXNlcjI2MDM3NzAz",

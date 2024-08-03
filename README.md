@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## Following <kbd>48</kbd>
+## Following <kbd>49</kbd>
 
 <table>
   <tr>
@@ -204,6 +204,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/QiuChenly">
+        <img src="https://avatars.githubusercontent.com/u/24793281?v=4" width="50" />
+        <br />
+        QiuChenly
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/liyupi">
         <img src="https://avatars.githubusercontent.com/u/26037703?v=4" width="50" />
         <br />
@@ -217,6 +224,7 @@
         niumoo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xrkffgg">
         <img src="https://avatars.githubusercontent.com/u/29775873?v=4" width="50" />
@@ -224,7 +232,6 @@
         xrkffgg
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DocsHome">
         <img src="https://avatars.githubusercontent.com/u/32667109?v=4" width="50" />
@@ -253,6 +260,7 @@
         HarborLibrary
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dromara">
         <img src="https://avatars.githubusercontent.com/u/41095225?v=4" width="50" />
@@ -260,7 +268,6 @@
         dromara
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Innei">
         <img src="https://avatars.githubusercontent.com/u/41265413?v=4" width="50" />
@@ -289,6 +296,7 @@
         0voice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cosen1024">
         <img src="https://avatars.githubusercontent.com/u/43594200?v=4" width="50" />
@@ -296,7 +304,6 @@
         cosen1024
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -325,6 +332,7 @@
         vikiboss
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hwanz">
         <img src="https://avatars.githubusercontent.com/u/62207618?v=4" width="50" />
@@ -332,7 +340,6 @@
         hwanz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pseudoyu">
         <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="50" />
@@ -361,6 +368,7 @@
         vscode-neovim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -368,7 +376,6 @@
         lhccong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Crossbell-Box">
         <img src="https://avatars.githubusercontent.com/u/103565959?v=4" width="50" />
@@ -389,8 +396,6 @@
         <br />
         1504402622
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
