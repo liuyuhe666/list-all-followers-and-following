@@ -320,6 +320,26 @@
     "site_admin": false
   },
   {
+    "login": "DiamondHunters",
+    "id": 13744511,
+    "node_id": "MDQ6VXNlcjEzNzQ0NTEx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/13744511?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DiamondHunters",
+    "html_url": "https://github.com/DiamondHunters",
+    "followers_url": "https://api.github.com/users/DiamondHunters/followers",
+    "following_url": "https://api.github.com/users/DiamondHunters/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DiamondHunters/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DiamondHunters/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DiamondHunters/subscriptions",
+    "organizations_url": "https://api.github.com/users/DiamondHunters/orgs",
+    "repos_url": "https://api.github.com/users/DiamondHunters/repos",
+    "events_url": "https://api.github.com/users/DiamondHunters/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DiamondHunters/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
     "login": "vercel",
     "id": 14985020,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MDIw",
