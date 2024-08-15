@@ -40,26 +40,6 @@
     "site_admin": false
   },
   {
-    "login": "sammorozov",
-    "id": 109150200,
-    "node_id": "U_kgDOBoF_-A",
-    "avatar_url": "https://avatars.githubusercontent.com/u/109150200?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/sammorozov",
-    "html_url": "https://github.com/sammorozov",
-    "followers_url": "https://api.github.com/users/sammorozov/followers",
-    "following_url": "https://api.github.com/users/sammorozov/following{/other_user}",
-    "gists_url": "https://api.github.com/users/sammorozov/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/sammorozov/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/sammorozov/subscriptions",
-    "organizations_url": "https://api.github.com/users/sammorozov/orgs",
-    "repos_url": "https://api.github.com/users/sammorozov/repos",
-    "events_url": "https://api.github.com/users/sammorozov/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/sammorozov/received_events",
-    "type": "User",
-    "site_admin": false
-  },
-  {
     "login": "peter-kimanzi",
     "id": 71552773,
     "node_id": "MDQ6VXNlcjcxNTUyNzcz",
@@ -76,6 +56,26 @@
     "repos_url": "https://api.github.com/users/peter-kimanzi/repos",
     "events_url": "https://api.github.com/users/peter-kimanzi/events{/privacy}",
     "received_events_url": "https://api.github.com/users/peter-kimanzi/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "NobleMajo",
+    "id": 39386799,
+    "node_id": "MDQ6VXNlcjM5Mzg2Nzk5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39386799?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NobleMajo",
+    "html_url": "https://github.com/NobleMajo",
+    "followers_url": "https://api.github.com/users/NobleMajo/followers",
+    "following_url": "https://api.github.com/users/NobleMajo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NobleMajo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NobleMajo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NobleMajo/subscriptions",
+    "organizations_url": "https://api.github.com/users/NobleMajo/orgs",
+    "repos_url": "https://api.github.com/users/NobleMajo/repos",
+    "events_url": "https://api.github.com/users/NobleMajo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NobleMajo/received_events",
     "type": "User",
     "site_admin": false
   }

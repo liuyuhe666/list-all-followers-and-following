@@ -33,17 +33,17 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sammorozov">
-        <img src="https://avatars.githubusercontent.com/u/109150200?v=4" width="50" />
-        <br />
-        sammorozov
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
         <br />
         peter-kimanzi
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/NobleMajo">
+        <img src="https://avatars.githubusercontent.com/u/39386799?v=4" width="50" />
+        <br />
+        NobleMajo
       </a>
     </td>
     <td width="150" align="center">
