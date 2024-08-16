@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | Singapore | - |
 
-## Followers <kbd>4</kbd>
+## Followers <kbd>3</kbd>
 
 <table>
   <tr>
@@ -40,18 +40,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/NobleMajo">
-        <img src="https://avatars.githubusercontent.com/u/39386799?v=4" width="50" />
-        <br />
-        NobleMajo
-      </a>
     </td>
     <td width="150" align="center">
     </td>
   </tr>
 </table>
 
-## Following <kbd>55</kbd>
+## Following <kbd>56</kbd>
 
 <table>
   <tr>
@@ -437,18 +432,34 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/yonggekkk">
+        <img src="https://avatars.githubusercontent.com/u/121604513?v=4" width="50" />
+        <br />
+        yonggekkk
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/all-in-aigc">
         <img src="https://avatars.githubusercontent.com/u/139607341?v=4" width="50" />
         <br />
         all-in-aigc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
