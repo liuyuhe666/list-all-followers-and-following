@@ -12,7 +12,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | Singapore | - |
+| Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | [@null](https://github.com/null) |
 
 ## Followers <kbd>3</kbd>
 
