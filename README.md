@@ -12,7 +12,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | [@null](https://github.com/null) |
+| Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | - |
 
 ## Followers <kbd>3</kbd>
 
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## Following <kbd>65</kbd>
+## Following <kbd>66</kbd>
 
 <table>
   <tr>
@@ -288,12 +288,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/maomao1996">
+        <img src="https://avatars.githubusercontent.com/u/24606443?v=4" width="50" />
+        <br />
+        maomao1996
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/QiuChenly">
         <img src="https://avatars.githubusercontent.com/u/24793281?v=4" width="50" />
         <br />
         QiuChenly
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/YunYouJun">
         <img src="https://avatars.githubusercontent.com/u/25154432?v=4" width="50" />
@@ -301,7 +309,6 @@
         YunYouJun
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/liyupi">
         <img src="https://avatars.githubusercontent.com/u/26037703?v=4" width="50" />
@@ -330,6 +337,7 @@
         xrkffgg
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DocsHome">
         <img src="https://avatars.githubusercontent.com/u/32667109?v=4" width="50" />
@@ -337,7 +345,6 @@
         DocsHome
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/besscroft">
         <img src="https://avatars.githubusercontent.com/u/33775809?v=4" width="50" />
@@ -366,6 +373,7 @@
         hyoban
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HarborLibrary">
         <img src="https://avatars.githubusercontent.com/u/38806671?v=4" width="50" />
@@ -373,7 +381,6 @@
         HarborLibrary
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dromara">
         <img src="https://avatars.githubusercontent.com/u/41095225?v=4" width="50" />
@@ -402,6 +409,7 @@
         nfe-w
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -409,7 +417,6 @@
         0voice
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cosen1024">
         <img src="https://avatars.githubusercontent.com/u/43594200?v=4" width="50" />
@@ -438,6 +445,7 @@
         ImYrS
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vikiboss">
         <img src="https://avatars.githubusercontent.com/u/53367348?v=4" width="50" />
@@ -445,7 +453,6 @@
         vikiboss
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hwanz">
         <img src="https://avatars.githubusercontent.com/u/62207618?v=4" width="50" />
@@ -474,6 +481,7 @@
         SagerNet
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vscode-neovim">
         <img src="https://avatars.githubusercontent.com/u/98290549?v=4" width="50" />
@@ -481,7 +489,6 @@
         vscode-neovim
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -510,12 +517,21 @@
         all-in-aigc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
