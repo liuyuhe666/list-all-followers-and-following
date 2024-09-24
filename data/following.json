@@ -180,6 +180,26 @@
     "site_admin": false
   },
   {
+    "login": "makenotion",
+    "id": 4792552,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3OTI1NTI=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4792552?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/makenotion",
+    "html_url": "https://github.com/makenotion",
+    "followers_url": "https://api.github.com/users/makenotion/followers",
+    "following_url": "https://api.github.com/users/makenotion/following{/other_user}",
+    "gists_url": "https://api.github.com/users/makenotion/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/makenotion/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/makenotion/subscriptions",
+    "organizations_url": "https://api.github.com/users/makenotion/orgs",
+    "repos_url": "https://api.github.com/users/makenotion/repos",
+    "events_url": "https://api.github.com/users/makenotion/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/makenotion/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  {
     "login": "wizardforcel",
     "id": 5080126,
     "node_id": "MDQ6VXNlcjUwODAxMjY=",
