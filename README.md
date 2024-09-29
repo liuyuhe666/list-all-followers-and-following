@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-## Following <kbd>69</kbd>
+## Following <kbd>70</kbd>
 
 <table>
   <tr>
@@ -545,13 +545,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/shadcn-ui">
+        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="50" />
+        <br />
+        shadcn-ui
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>

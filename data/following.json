@@ -1360,6 +1360,26 @@
     "site_admin": false
   },
   {
+    "login": "shadcn-ui",
+    "id": 139895814,
+    "node_id": "O_kgDOCFakBg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/shadcn-ui",
+    "html_url": "https://github.com/shadcn-ui",
+    "followers_url": "https://api.github.com/users/shadcn-ui/followers",
+    "following_url": "https://api.github.com/users/shadcn-ui/following{/other_user}",
+    "gists_url": "https://api.github.com/users/shadcn-ui/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/shadcn-ui/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/shadcn-ui/subscriptions",
+    "organizations_url": "https://api.github.com/users/shadcn-ui/orgs",
+    "repos_url": "https://api.github.com/users/shadcn-ui/repos",
+    "events_url": "https://api.github.com/users/shadcn-ui/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/shadcn-ui/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  {
     "login": "1504402622",
     "id": 140617490,
     "node_id": "U_kgDOCGGnEg",
