@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## Following <kbd>71</kbd>
+## Following <kbd>72</kbd>
 
 <table>
   <tr>
@@ -303,6 +303,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/yanglbme">
+        <img src="https://avatars.githubusercontent.com/u/21008209?v=4" width="50" />
+        <br />
+        yanglbme
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/maomao1996">
         <img src="https://avatars.githubusercontent.com/u/24606443?v=4" width="50" />
         <br />
@@ -330,6 +337,7 @@
         liyupi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/niumoo">
         <img src="https://avatars.githubusercontent.com/u/26371673?v=4" width="50" />
@@ -337,7 +345,6 @@
         niumoo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Jannchie">
         <img src="https://avatars.githubusercontent.com/u/29743310?v=4" width="50" />
@@ -366,6 +373,7 @@
         besscroft
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nidbCN">
         <img src="https://avatars.githubusercontent.com/u/36162655?v=4" width="50" />
@@ -373,7 +381,6 @@
         nidbCN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lyming99">
         <img src="https://avatars.githubusercontent.com/u/36320663?v=4" width="50" />
@@ -402,6 +409,7 @@
         dromara
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Innei">
         <img src="https://avatars.githubusercontent.com/u/41265413?v=4" width="50" />
@@ -409,7 +417,6 @@
         Innei
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ncghost1">
         <img src="https://avatars.githubusercontent.com/u/41555481?v=4" width="50" />
@@ -438,6 +445,7 @@
         0voice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cosen1024">
         <img src="https://avatars.githubusercontent.com/u/43594200?v=4" width="50" />
@@ -445,7 +453,6 @@
         cosen1024
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -474,6 +481,7 @@
         vikiboss
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hwanz">
         <img src="https://avatars.githubusercontent.com/u/62207618?v=4" width="50" />
@@ -481,7 +489,6 @@
         hwanz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pseudoyu">
         <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="50" />
@@ -510,6 +517,7 @@
         SagerNet
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vscode-neovim">
         <img src="https://avatars.githubusercontent.com/u/98290549?v=4" width="50" />
@@ -517,7 +525,6 @@
         vscode-neovim
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -546,6 +553,7 @@
         all-in-aigc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shadcn-ui">
         <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="50" />
@@ -553,15 +561,12 @@
         shadcn-ui
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
