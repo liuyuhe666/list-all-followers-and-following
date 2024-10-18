@@ -17,6 +17,7 @@
     "events_url": "https://api.github.com/users/apache/events{/privacy}",
     "received_events_url": "https://api.github.com/users/apache/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -37,6 +38,7 @@
     "events_url": "https://api.github.com/users/cch123/events{/privacy}",
     "received_events_url": "https://api.github.com/users/cch123/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -57,6 +59,7 @@
     "events_url": "https://api.github.com/users/octocat/events{/privacy}",
     "received_events_url": "https://api.github.com/users/octocat/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -77,6 +80,7 @@
     "events_url": "https://api.github.com/users/ruanyf/events{/privacy}",
     "received_events_url": "https://api.github.com/users/ruanyf/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -97,6 +101,7 @@
     "events_url": "https://api.github.com/users/jaywcjlove/events{/privacy}",
     "received_events_url": "https://api.github.com/users/jaywcjlove/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -117,6 +122,7 @@
     "events_url": "https://api.github.com/users/qloog/events{/privacy}",
     "received_events_url": "https://api.github.com/users/qloog/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -137,6 +143,7 @@
     "events_url": "https://api.github.com/users/dyc87112/events{/privacy}",
     "received_events_url": "https://api.github.com/users/dyc87112/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -157,6 +164,7 @@
     "events_url": "https://api.github.com/users/fuzhengwei/events{/privacy}",
     "received_events_url": "https://api.github.com/users/fuzhengwei/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -177,6 +185,7 @@
     "events_url": "https://api.github.com/users/rfyiamcool/events{/privacy}",
     "received_events_url": "https://api.github.com/users/rfyiamcool/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -197,6 +206,7 @@
     "events_url": "https://api.github.com/users/makenotion/events{/privacy}",
     "received_events_url": "https://api.github.com/users/makenotion/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -217,6 +227,7 @@
     "events_url": "https://api.github.com/users/wizardforcel/events{/privacy}",
     "received_events_url": "https://api.github.com/users/wizardforcel/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -237,6 +248,7 @@
     "events_url": "https://api.github.com/users/changkun/events{/privacy}",
     "received_events_url": "https://api.github.com/users/changkun/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -257,6 +269,7 @@
     "events_url": "https://api.github.com/users/realpdai/events{/privacy}",
     "received_events_url": "https://api.github.com/users/realpdai/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -277,6 +290,7 @@
     "events_url": "https://api.github.com/users/lidangzzz/events{/privacy}",
     "received_events_url": "https://api.github.com/users/lidangzzz/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -297,6 +311,7 @@
     "events_url": "https://api.github.com/users/EndlessCheng/events{/privacy}",
     "received_events_url": "https://api.github.com/users/EndlessCheng/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -317,6 +332,7 @@
     "events_url": "https://api.github.com/users/aceld/events{/privacy}",
     "received_events_url": "https://api.github.com/users/aceld/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -337,6 +353,7 @@
     "events_url": "https://api.github.com/users/gin-gonic/events{/privacy}",
     "received_events_url": "https://api.github.com/users/gin-gonic/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -357,6 +374,7 @@
     "events_url": "https://api.github.com/users/DIYgod/events{/privacy}",
     "received_events_url": "https://api.github.com/users/DIYgod/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -377,6 +395,7 @@
     "events_url": "https://api.github.com/users/youngyangyang04/events{/privacy}",
     "received_events_url": "https://api.github.com/users/youngyangyang04/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -397,6 +416,7 @@
     "events_url": "https://api.github.com/users/Loyalsoldier/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Loyalsoldier/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -417,6 +437,7 @@
     "events_url": "https://api.github.com/users/halfrost/events{/privacy}",
     "received_events_url": "https://api.github.com/users/halfrost/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -437,6 +458,7 @@
     "events_url": "https://api.github.com/users/antfu/events{/privacy}",
     "received_events_url": "https://api.github.com/users/antfu/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -457,6 +479,7 @@
     "events_url": "https://api.github.com/users/netcan/events{/privacy}",
     "received_events_url": "https://api.github.com/users/netcan/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -477,6 +500,7 @@
     "events_url": "https://api.github.com/users/Alvin9999/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Alvin9999/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -497,6 +521,7 @@
     "events_url": "https://api.github.com/users/Binaryify/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Binaryify/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -517,6 +542,7 @@
     "events_url": "https://api.github.com/users/typora/events{/privacy}",
     "received_events_url": "https://api.github.com/users/typora/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -537,6 +563,7 @@
     "events_url": "https://api.github.com/users/bestony/events{/privacy}",
     "received_events_url": "https://api.github.com/users/bestony/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -557,6 +584,7 @@
     "events_url": "https://api.github.com/users/geektutu/events{/privacy}",
     "received_events_url": "https://api.github.com/users/geektutu/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -577,6 +605,7 @@
     "events_url": "https://api.github.com/users/DiamondHunters/events{/privacy}",
     "received_events_url": "https://api.github.com/users/DiamondHunters/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -597,6 +626,7 @@
     "events_url": "https://api.github.com/users/vercel/events{/privacy}",
     "received_events_url": "https://api.github.com/users/vercel/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -617,6 +647,7 @@
     "events_url": "https://api.github.com/users/macrozheng/events{/privacy}",
     "received_events_url": "https://api.github.com/users/macrozheng/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -637,6 +668,7 @@
     "events_url": "https://api.github.com/users/journey-ad/events{/privacy}",
     "received_events_url": "https://api.github.com/users/journey-ad/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -657,6 +689,7 @@
     "events_url": "https://api.github.com/users/qufei1993/events{/privacy}",
     "received_events_url": "https://api.github.com/users/qufei1993/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -677,6 +710,7 @@
     "events_url": "https://api.github.com/users/singgel/events{/privacy}",
     "received_events_url": "https://api.github.com/users/singgel/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -697,6 +731,7 @@
     "events_url": "https://api.github.com/users/sashimi-yzh/events{/privacy}",
     "received_events_url": "https://api.github.com/users/sashimi-yzh/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -717,6 +752,7 @@
     "events_url": "https://api.github.com/users/yanglbme/events{/privacy}",
     "received_events_url": "https://api.github.com/users/yanglbme/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -737,6 +773,7 @@
     "events_url": "https://api.github.com/users/maomao1996/events{/privacy}",
     "received_events_url": "https://api.github.com/users/maomao1996/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -757,6 +794,7 @@
     "events_url": "https://api.github.com/users/QiuChenly/events{/privacy}",
     "received_events_url": "https://api.github.com/users/QiuChenly/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -777,6 +815,7 @@
     "events_url": "https://api.github.com/users/YunYouJun/events{/privacy}",
     "received_events_url": "https://api.github.com/users/YunYouJun/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -797,6 +836,7 @@
     "events_url": "https://api.github.com/users/liyupi/events{/privacy}",
     "received_events_url": "https://api.github.com/users/liyupi/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -817,6 +857,7 @@
     "events_url": "https://api.github.com/users/niumoo/events{/privacy}",
     "received_events_url": "https://api.github.com/users/niumoo/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -837,6 +878,7 @@
     "events_url": "https://api.github.com/users/Jannchie/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Jannchie/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -857,6 +899,7 @@
     "events_url": "https://api.github.com/users/xrkffgg/events{/privacy}",
     "received_events_url": "https://api.github.com/users/xrkffgg/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -877,6 +920,7 @@
     "events_url": "https://api.github.com/users/DocsHome/events{/privacy}",
     "received_events_url": "https://api.github.com/users/DocsHome/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -897,6 +941,7 @@
     "events_url": "https://api.github.com/users/besscroft/events{/privacy}",
     "received_events_url": "https://api.github.com/users/besscroft/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -917,6 +962,7 @@
     "events_url": "https://api.github.com/users/nidbCN/events{/privacy}",
     "received_events_url": "https://api.github.com/users/nidbCN/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -937,6 +983,7 @@
     "events_url": "https://api.github.com/users/lyming99/events{/privacy}",
     "received_events_url": "https://api.github.com/users/lyming99/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -957,6 +1004,7 @@
     "events_url": "https://api.github.com/users/hyoban/events{/privacy}",
     "received_events_url": "https://api.github.com/users/hyoban/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -977,6 +1025,7 @@
     "events_url": "https://api.github.com/users/HarborLibrary/events{/privacy}",
     "received_events_url": "https://api.github.com/users/HarborLibrary/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -997,6 +1046,7 @@
     "events_url": "https://api.github.com/users/dromara/events{/privacy}",
     "received_events_url": "https://api.github.com/users/dromara/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1017,6 +1067,7 @@
     "events_url": "https://api.github.com/users/Innei/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Innei/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1037,6 +1088,7 @@
     "events_url": "https://api.github.com/users/ncghost1/events{/privacy}",
     "received_events_url": "https://api.github.com/users/ncghost1/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1057,6 +1109,7 @@
     "events_url": "https://api.github.com/users/openjdk/events{/privacy}",
     "received_events_url": "https://api.github.com/users/openjdk/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1077,6 +1130,7 @@
     "events_url": "https://api.github.com/users/nfe-w/events{/privacy}",
     "received_events_url": "https://api.github.com/users/nfe-w/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1097,6 +1151,7 @@
     "events_url": "https://api.github.com/users/0voice/events{/privacy}",
     "received_events_url": "https://api.github.com/users/0voice/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1117,6 +1172,7 @@
     "events_url": "https://api.github.com/users/cosen1024/events{/privacy}",
     "received_events_url": "https://api.github.com/users/cosen1024/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1137,6 +1193,7 @@
     "events_url": "https://api.github.com/users/doocs/events{/privacy}",
     "received_events_url": "https://api.github.com/users/doocs/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1157,6 +1214,7 @@
     "events_url": "https://api.github.com/users/Magren0321/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Magren0321/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1177,6 +1235,7 @@
     "events_url": "https://api.github.com/users/ImYrS/events{/privacy}",
     "received_events_url": "https://api.github.com/users/ImYrS/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1197,6 +1256,7 @@
     "events_url": "https://api.github.com/users/vikiboss/events{/privacy}",
     "received_events_url": "https://api.github.com/users/vikiboss/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1217,6 +1277,7 @@
     "events_url": "https://api.github.com/users/hwanz/events{/privacy}",
     "received_events_url": "https://api.github.com/users/hwanz/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1237,6 +1298,7 @@
     "events_url": "https://api.github.com/users/pseudoyu/events{/privacy}",
     "received_events_url": "https://api.github.com/users/pseudoyu/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1257,6 +1319,7 @@
     "events_url": "https://api.github.com/users/SharingSource/events{/privacy}",
     "received_events_url": "https://api.github.com/users/SharingSource/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1277,6 +1340,7 @@
     "events_url": "https://api.github.com/users/unjs/events{/privacy}",
     "received_events_url": "https://api.github.com/users/unjs/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1297,6 +1361,7 @@
     "events_url": "https://api.github.com/users/SagerNet/events{/privacy}",
     "received_events_url": "https://api.github.com/users/SagerNet/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1317,6 +1382,7 @@
     "events_url": "https://api.github.com/users/vscode-neovim/events{/privacy}",
     "received_events_url": "https://api.github.com/users/vscode-neovim/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1337,6 +1403,7 @@
     "events_url": "https://api.github.com/users/lhccong/events{/privacy}",
     "received_events_url": "https://api.github.com/users/lhccong/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1357,6 +1424,7 @@
     "events_url": "https://api.github.com/users/Crossbell-Box/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Crossbell-Box/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1377,6 +1445,7 @@
     "events_url": "https://api.github.com/users/yonggekkk/events{/privacy}",
     "received_events_url": "https://api.github.com/users/yonggekkk/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1397,6 +1466,7 @@
     "events_url": "https://api.github.com/users/all-in-aigc/events{/privacy}",
     "received_events_url": "https://api.github.com/users/all-in-aigc/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1417,6 +1487,7 @@
     "events_url": "https://api.github.com/users/shadcn-ui/events{/privacy}",
     "received_events_url": "https://api.github.com/users/shadcn-ui/received_events",
     "type": "Organization",
+    "user_view_type": "public",
     "site_admin": false
   },
   {
@@ -1437,6 +1508,7 @@
     "events_url": "https://api.github.com/users/1504402622/events{/privacy}",
     "received_events_url": "https://api.github.com/users/1504402622/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   }
 ]
