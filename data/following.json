@@ -105,6 +105,27 @@
     "site_admin": false
   },
   {
+    "login": "ccbikai",
+    "id": 2959393,
+    "node_id": "MDQ6VXNlcjI5NTkzOTM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2959393?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ccbikai",
+    "html_url": "https://github.com/ccbikai",
+    "followers_url": "https://api.github.com/users/ccbikai/followers",
+    "following_url": "https://api.github.com/users/ccbikai/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ccbikai/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ccbikai/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ccbikai/subscriptions",
+    "organizations_url": "https://api.github.com/users/ccbikai/orgs",
+    "repos_url": "https://api.github.com/users/ccbikai/repos",
+    "events_url": "https://api.github.com/users/ccbikai/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ccbikai/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "qloog",
     "id": 3043638,
     "node_id": "MDQ6VXNlcjMwNDM2Mzg=",
