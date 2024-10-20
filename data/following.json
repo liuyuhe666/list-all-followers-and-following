@@ -63,6 +63,27 @@
     "site_admin": false
   },
   {
+    "login": "smallnest",
+    "id": 865763,
+    "node_id": "MDQ6VXNlcjg2NTc2Mw==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/865763?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/smallnest",
+    "html_url": "https://github.com/smallnest",
+    "followers_url": "https://api.github.com/users/smallnest/followers",
+    "following_url": "https://api.github.com/users/smallnest/following{/other_user}",
+    "gists_url": "https://api.github.com/users/smallnest/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/smallnest/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/smallnest/subscriptions",
+    "organizations_url": "https://api.github.com/users/smallnest/orgs",
+    "repos_url": "https://api.github.com/users/smallnest/repos",
+    "events_url": "https://api.github.com/users/smallnest/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/smallnest/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "ruanyf",
     "id": 905434,
     "node_id": "MDQ6VXNlcjkwNTQzNA==",
