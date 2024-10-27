@@ -1365,6 +1365,27 @@
     "site_admin": false
   },
   {
+    "login": "golang-design",
+    "id": 71124567,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxMTI0NTY3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71124567?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/golang-design",
+    "html_url": "https://github.com/golang-design",
+    "followers_url": "https://api.github.com/users/golang-design/followers",
+    "following_url": "https://api.github.com/users/golang-design/following{/other_user}",
+    "gists_url": "https://api.github.com/users/golang-design/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/golang-design/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/golang-design/subscriptions",
+    "organizations_url": "https://api.github.com/users/golang-design/orgs",
+    "repos_url": "https://api.github.com/users/golang-design/repos",
+    "events_url": "https://api.github.com/users/golang-design/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/golang-design/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "SharingSource",
     "id": 77527133,
     "node_id": "MDQ6VXNlcjc3NTI3MTMz",

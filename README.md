@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## Following <kbd>75</kbd>
+## Following <kbd>76</kbd>
 
 <table>
   <tr>
@@ -519,6 +519,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/golang-design">
+        <img src="https://avatars.githubusercontent.com/u/71124567?v=4" width="50" />
+        <br />
+        golang-design
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/SharingSource">
         <img src="https://avatars.githubusercontent.com/u/77527133?v=4" width="50" />
         <br />
@@ -546,6 +553,7 @@
         vscode-neovim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -553,7 +561,6 @@
         lhccong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Crossbell-Box">
         <img src="https://avatars.githubusercontent.com/u/103565959?v=4" width="50" />
@@ -582,12 +589,21 @@
         shadcn-ui
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
