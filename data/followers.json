@@ -42,6 +42,27 @@
     "site_admin": false
   },
   {
+    "login": "1AoB",
+    "id": 78208268,
+    "node_id": "MDQ6VXNlcjc4MjA4MjY4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/78208268?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/1AoB",
+    "html_url": "https://github.com/1AoB",
+    "followers_url": "https://api.github.com/users/1AoB/followers",
+    "following_url": "https://api.github.com/users/1AoB/following{/other_user}",
+    "gists_url": "https://api.github.com/users/1AoB/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/1AoB/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/1AoB/subscriptions",
+    "organizations_url": "https://api.github.com/users/1AoB/orgs",
+    "repos_url": "https://api.github.com/users/1AoB/repos",
+    "events_url": "https://api.github.com/users/1AoB/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/1AoB/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "peter-kimanzi",
     "id": 71552773,
     "node_id": "MDQ6VXNlcjcxNTUyNzcz",
