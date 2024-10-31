@@ -82,26 +82,5 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false
-  },
-  {
-    "login": "BEPb",
-    "id": 57312267,
-    "node_id": "MDQ6VXNlcjU3MzEyMjY3",
-    "avatar_url": "https://avatars.githubusercontent.com/u/57312267?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/BEPb",
-    "html_url": "https://github.com/BEPb",
-    "followers_url": "https://api.github.com/users/BEPb/followers",
-    "following_url": "https://api.github.com/users/BEPb/following{/other_user}",
-    "gists_url": "https://api.github.com/users/BEPb/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/BEPb/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/BEPb/subscriptions",
-    "organizations_url": "https://api.github.com/users/BEPb/orgs",
-    "repos_url": "https://api.github.com/users/BEPb/repos",
-    "events_url": "https://api.github.com/users/BEPb/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/BEPb/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false
   }
 ]
