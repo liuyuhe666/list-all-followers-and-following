@@ -756,6 +756,27 @@
     "site_admin": false
   },
   {
+    "login": "darjun",
+    "id": 18298106,
+    "node_id": "MDQ6VXNlcjE4Mjk4MTA2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/18298106?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/darjun",
+    "html_url": "https://github.com/darjun",
+    "followers_url": "https://api.github.com/users/darjun/followers",
+    "following_url": "https://api.github.com/users/darjun/following{/other_user}",
+    "gists_url": "https://api.github.com/users/darjun/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/darjun/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/darjun/subscriptions",
+    "organizations_url": "https://api.github.com/users/darjun/orgs",
+    "repos_url": "https://api.github.com/users/darjun/repos",
+    "events_url": "https://api.github.com/users/darjun/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/darjun/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "singgel",
     "id": 18670310,
     "node_id": "MDQ6VXNlcjE4NjcwMzEw",

@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-## Following <kbd>76</kbd>
+## Following <kbd>77</kbd>
 
 <table>
   <tr>
@@ -315,6 +315,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/darjun">
+        <img src="https://avatars.githubusercontent.com/u/18298106?v=4" width="50" />
+        <br />
+        darjun
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/singgel">
         <img src="https://avatars.githubusercontent.com/u/18670310?v=4" width="50" />
         <br />
@@ -335,6 +342,7 @@
         yanglbme
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/maomao1996">
         <img src="https://avatars.githubusercontent.com/u/24606443?v=4" width="50" />
@@ -342,7 +350,6 @@
         maomao1996
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/QiuChenly">
         <img src="https://avatars.githubusercontent.com/u/24793281?v=4" width="50" />
@@ -371,6 +378,7 @@
         niumoo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Jannchie">
         <img src="https://avatars.githubusercontent.com/u/29743310?v=4" width="50" />
@@ -378,7 +386,6 @@
         Jannchie
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xrkffgg">
         <img src="https://avatars.githubusercontent.com/u/29775873?v=4" width="50" />
@@ -407,6 +414,7 @@
         nidbCN
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lyming99">
         <img src="https://avatars.githubusercontent.com/u/36320663?v=4" width="50" />
@@ -414,7 +422,6 @@
         lyming99
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hyoban">
         <img src="https://avatars.githubusercontent.com/u/38493346?v=4" width="50" />
@@ -443,6 +450,7 @@
         Innei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ncghost1">
         <img src="https://avatars.githubusercontent.com/u/41555481?v=4" width="50" />
@@ -450,7 +458,6 @@
         ncghost1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/openjdk">
         <img src="https://avatars.githubusercontent.com/u/41768318?v=4" width="50" />
@@ -479,6 +486,7 @@
         cosen1024
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -486,7 +494,6 @@
         doocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Magren0321">
         <img src="https://avatars.githubusercontent.com/u/44224328?v=4" width="50" />
@@ -515,6 +522,7 @@
         hwanz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pseudoyu">
         <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="50" />
@@ -522,7 +530,6 @@
         pseudoyu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/golang-design">
         <img src="https://avatars.githubusercontent.com/u/71124567?v=4" width="50" />
@@ -551,6 +558,7 @@
         SagerNet
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vscode-neovim">
         <img src="https://avatars.githubusercontent.com/u/98290549?v=4" width="50" />
@@ -558,7 +566,6 @@
         vscode-neovim
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -587,6 +594,7 @@
         all-in-aigc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shadcn-ui">
         <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="50" />
@@ -594,15 +602,12 @@
         shadcn-ui
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
