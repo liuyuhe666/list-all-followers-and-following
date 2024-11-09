@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | - |
 
-## Followers <kbd>5</kbd>
+## Followers <kbd>4</kbd>
 
 <table>
   <tr>
@@ -47,11 +47,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Kos-M">
-        <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="50" />
-        <br />
-        Kos-M
-      </a>
     </td>
   </tr>
 </table>

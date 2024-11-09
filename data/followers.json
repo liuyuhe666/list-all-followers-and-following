@@ -82,26 +82,5 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false
-  },
-  {
-    "login": "Kos-M",
-    "id": 46938390,
-    "node_id": "MDQ6VXNlcjQ2OTM4Mzkw",
-    "avatar_url": "https://avatars.githubusercontent.com/u/46938390?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/Kos-M",
-    "html_url": "https://github.com/Kos-M",
-    "followers_url": "https://api.github.com/users/Kos-M/followers",
-    "following_url": "https://api.github.com/users/Kos-M/following{/other_user}",
-    "gists_url": "https://api.github.com/users/Kos-M/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/Kos-M/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/Kos-M/subscriptions",
-    "organizations_url": "https://api.github.com/users/Kos-M/orgs",
-    "repos_url": "https://api.github.com/users/Kos-M/repos",
-    "events_url": "https://api.github.com/users/Kos-M/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/Kos-M/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false
   }
 ]
