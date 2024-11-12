@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | - |
 
-## Followers <kbd>4</kbd>
+## Followers <kbd>5</kbd>
 
 <table>
   <tr>
@@ -47,6 +47,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/idimetrix">
+        <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
+        <br />
+        idimetrix
+      </a>
     </td>
   </tr>
 </table>

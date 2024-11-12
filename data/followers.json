@@ -82,5 +82,26 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false
+  },
+  {
+    "login": "idimetrix",
+    "id": 6536323,
+    "node_id": "MDQ6VXNlcjY1MzYzMjM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6536323?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/idimetrix",
+    "html_url": "https://github.com/idimetrix",
+    "followers_url": "https://api.github.com/users/idimetrix/followers",
+    "following_url": "https://api.github.com/users/idimetrix/following{/other_user}",
+    "gists_url": "https://api.github.com/users/idimetrix/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/idimetrix/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/idimetrix/subscriptions",
+    "organizations_url": "https://api.github.com/users/idimetrix/orgs",
+    "repos_url": "https://api.github.com/users/idimetrix/repos",
+    "events_url": "https://api.github.com/users/idimetrix/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/idimetrix/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
   }
 ]
