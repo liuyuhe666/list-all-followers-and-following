@@ -168,6 +168,27 @@
     "site_admin": false
   },
   {
+    "login": "Tyrrrz",
+    "id": 1935960,
+    "node_id": "MDQ6VXNlcjE5MzU5NjA=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1935960?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Tyrrrz",
+    "html_url": "https://github.com/Tyrrrz",
+    "followers_url": "https://api.github.com/users/Tyrrrz/followers",
+    "following_url": "https://api.github.com/users/Tyrrrz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Tyrrrz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Tyrrrz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Tyrrrz/subscriptions",
+    "organizations_url": "https://api.github.com/users/Tyrrrz/orgs",
+    "repos_url": "https://api.github.com/users/Tyrrrz/repos",
+    "events_url": "https://api.github.com/users/Tyrrrz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Tyrrrz/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "ccbikai",
     "id": 2959393,
     "node_id": "MDQ6VXNlcjI5NTkzOTM=",
