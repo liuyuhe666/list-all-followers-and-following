@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-## Following <kbd>80</kbd>
+## Following <kbd>81</kbd>
 
 <table>
   <tr>
@@ -437,6 +437,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/lixd">
+        <img src="https://avatars.githubusercontent.com/u/31980412?v=4" width="50" />
+        <br />
+        lixd
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/DocsHome">
         <img src="https://avatars.githubusercontent.com/u/32667109?v=4" width="50" />
         <br />
@@ -464,6 +471,7 @@
         lyming99
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hyoban">
         <img src="https://avatars.githubusercontent.com/u/38493346?v=4" width="50" />
@@ -471,7 +479,6 @@
         hyoban
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/HarborLibrary">
         <img src="https://avatars.githubusercontent.com/u/38806671?v=4" width="50" />
@@ -500,6 +507,7 @@
         ncghost1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/openjdk">
         <img src="https://avatars.githubusercontent.com/u/41768318?v=4" width="50" />
@@ -507,7 +515,6 @@
         openjdk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nfe-w">
         <img src="https://avatars.githubusercontent.com/u/41944640?v=4" width="50" />
@@ -536,6 +543,7 @@
         doocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Magren0321">
         <img src="https://avatars.githubusercontent.com/u/44224328?v=4" width="50" />
@@ -543,7 +551,6 @@
         Magren0321
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ImYrS">
         <img src="https://avatars.githubusercontent.com/u/44287632?v=4" width="50" />
@@ -572,6 +579,7 @@
         pseudoyu
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/golang-design">
         <img src="https://avatars.githubusercontent.com/u/71124567?v=4" width="50" />
@@ -579,7 +587,6 @@
         golang-design
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SharingSource">
         <img src="https://avatars.githubusercontent.com/u/77527133?v=4" width="50" />
@@ -608,6 +615,7 @@
         vscode-neovim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -615,7 +623,6 @@
         lhccong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Crossbell-Box">
         <img src="https://avatars.githubusercontent.com/u/103565959?v=4" width="50" />
@@ -644,12 +651,21 @@
         shadcn-ui
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
