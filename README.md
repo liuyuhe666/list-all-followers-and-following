@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-## Following <kbd>81</kbd>
+## Following <kbd>82</kbd>
 
 <table>
   <tr>
@@ -451,6 +451,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/eryajf">
+        <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="50" />
+        <br />
+        eryajf
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/besscroft">
         <img src="https://avatars.githubusercontent.com/u/33775809?v=4" width="50" />
         <br />
@@ -464,6 +471,7 @@
         nidbCN
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lyming99">
         <img src="https://avatars.githubusercontent.com/u/36320663?v=4" width="50" />
@@ -471,7 +479,6 @@
         lyming99
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hyoban">
         <img src="https://avatars.githubusercontent.com/u/38493346?v=4" width="50" />
@@ -500,6 +507,7 @@
         Innei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ncghost1">
         <img src="https://avatars.githubusercontent.com/u/41555481?v=4" width="50" />
@@ -507,7 +515,6 @@
         ncghost1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/openjdk">
         <img src="https://avatars.githubusercontent.com/u/41768318?v=4" width="50" />
@@ -536,6 +543,7 @@
         cosen1024
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -543,7 +551,6 @@
         doocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Magren0321">
         <img src="https://avatars.githubusercontent.com/u/44224328?v=4" width="50" />
@@ -572,6 +579,7 @@
         hwanz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pseudoyu">
         <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="50" />
@@ -579,7 +587,6 @@
         pseudoyu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/golang-design">
         <img src="https://avatars.githubusercontent.com/u/71124567?v=4" width="50" />
@@ -608,6 +615,7 @@
         SagerNet
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vscode-neovim">
         <img src="https://avatars.githubusercontent.com/u/98290549?v=4" width="50" />
@@ -615,7 +623,6 @@
         vscode-neovim
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lhccong">
         <img src="https://avatars.githubusercontent.com/u/102467051?v=4" width="50" />
@@ -644,6 +651,7 @@
         all-in-aigc
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shadcn-ui">
         <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="50" />
@@ -651,15 +659,12 @@
         shadcn-ui
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/1504402622">
         <img src="https://avatars.githubusercontent.com/u/140617490?v=4" width="50" />
         <br />
         1504402622
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
