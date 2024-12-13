@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | - |
 
-## Followers <kbd>6</kbd>
+## Followers <kbd>8</kbd>
 
 <table>
   <tr>
@@ -40,12 +40,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Kula529">
+        <img src="https://avatars.githubusercontent.com/u/132279417?v=4" width="50" />
+        <br />
+        Kula529
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/1AoB">
         <img src="https://avatars.githubusercontent.com/u/78208268?v=4" width="50" />
         <br />
         1AoB
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars.githubusercontent.com/u/71552773?v=4" width="50" />
@@ -53,7 +61,6 @@
         peter-kimanzi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars.githubusercontent.com/u/6536323?v=4" width="50" />
@@ -62,8 +69,11 @@
       </a>
     </td>
     <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
+      <a href="https://github.com/XiaomingX">
+        <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50" />
+        <br />
+        XiaomingX
+      </a>
     </td>
     <td width="150" align="center">
     </td>
