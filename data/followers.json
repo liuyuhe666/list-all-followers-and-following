@@ -145,26 +145,5 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false
-  },
-  {
-    "login": "XiaomingX",
-    "id": 5387930,
-    "node_id": "MDQ6VXNlcjUzODc5MzA=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/5387930?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/XiaomingX",
-    "html_url": "https://github.com/XiaomingX",
-    "followers_url": "https://api.github.com/users/XiaomingX/followers",
-    "following_url": "https://api.github.com/users/XiaomingX/following{/other_user}",
-    "gists_url": "https://api.github.com/users/XiaomingX/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/XiaomingX/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/XiaomingX/subscriptions",
-    "organizations_url": "https://api.github.com/users/XiaomingX/orgs",
-    "repos_url": "https://api.github.com/users/XiaomingX/repos",
-    "events_url": "https://api.github.com/users/XiaomingX/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/XiaomingX/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false
   }
 ]

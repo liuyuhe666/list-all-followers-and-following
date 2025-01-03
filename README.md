@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yuhe | I do open source :) | [https://hellolyh.xlog.app](https://https://hellolyh.xlog.app) | China | - |
 
-## Followers <kbd>8</kbd>
+## Followers <kbd>7</kbd>
 
 <table>
   <tr>
@@ -69,11 +69,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/XiaomingX">
-        <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50" />
-        <br />
-        XiaomingX
-      </a>
     </td>
     <td width="150" align="center">
     </td>
