@@ -126,6 +126,27 @@
     "site_admin": false
   },
   {
+    "login": "standardgalactic",
+    "id": 43516554,
+    "node_id": "MDQ6VXNlcjQzNTE2NTU0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43516554?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/standardgalactic",
+    "html_url": "https://github.com/standardgalactic",
+    "followers_url": "https://api.github.com/users/standardgalactic/followers",
+    "following_url": "https://api.github.com/users/standardgalactic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/standardgalactic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/standardgalactic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/standardgalactic/subscriptions",
+    "organizations_url": "https://api.github.com/users/standardgalactic/orgs",
+    "repos_url": "https://api.github.com/users/standardgalactic/repos",
+    "events_url": "https://api.github.com/users/standardgalactic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/standardgalactic/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  {
     "login": "idimetrix",
     "id": 6536323,
     "node_id": "MDQ6VXNlcjY1MzYzMjM=",
